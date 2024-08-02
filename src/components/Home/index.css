@@ -1,0 +1,176 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Hero Section */
+  .hero {
+    text-align: center;
+    background: linear-gradient(to bottom right, #6dd5ed, #2193b0);
+    color: white;
+    padding: 60px 20px;
+    margin-bottom: 40px;
+    position: relative;
+  }
+  
+  .hero-heading {
+    font-size: 48px;
+    margin: 0 0 20px;
+    animation: fadeInDown 1s ease-in-out;
+  }
+  
+  .hero-para {
+    font-size: 20px;
+    margin: 0 0 30px;
+    color: #f7f7f7;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .cta-button {
+    padding: 12px 24px;
+    background-color: #61dafb;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #21a1f1;
+  }
+  
+  @keyframes fadeInDown {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes fadeInUp {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  
+  /* Features Section */
+  .features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 40px 20px;
+  }
+  
+  .feature {
+    text-align: center;
+    padding: 20px;
+    background: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .feature:hover {
+    transform: translateY(-10px);
+  }
+  
+  .feature h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .feature-para {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  /* How It Works Section */
+  .how-it-works {
+    background-color: #f1f1f1;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .how-it-works h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+  }
+  
+  .steps {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .step {
+    flex: 1;
+    margin: 0 20px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .step h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .step p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Why Choose Us Section */
+  .why-choose-us {
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .why-choose-us h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+  }
+  
+  .why-choose-us ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .why-choose-us ul li {
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .why-choose-us ul li strong {
+    color: #333;
+  }
+  
+  /* Testimonials Section */
+  .testimonials {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f7f7f7;
+    margin-bottom: 40px;
+  }
+  
+  .testimonials h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+  }
+  
+  .testimonial {
+    margin-bottom: 20px;
+  }
+  
+  .testimonial p {
+    font-size: 18px;
+    font-style: italic;
+    color: #333;
+  }
+  
+  .testimonial cite {
+    display: block;
+    font-size: 16px;
+    color: #555;
+    margin-top: 5px;
+  }
+  

@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.postimg.cc/fRcPH86q/Screenshot-2024-08-02-104937.png",
+      "title": "Cozy Apartment",
+      "description": "A cozy apartment in the city center.",
+      "price": 12000,
+      "location": "New York",
+      "numberOfBedrooms": 2,
+      "amenities": ["WiFi", "Air Conditioning"]
+    },
+    {
+      "id": 2,
+      "image": "https://i.postimg.cc/WzfQmtqG/Screenshot-2024-08-02-105610.png",
+      "title": "Modern House",
+      "description": "A modern house with all the amenities.",
+      "price": 25000,
+      "location": "San Francisco",
+      "numberOfBedrooms": 4,
+      "amenities": ["WiFi", "Pool", "Garage"]
+    },
+    {
+      "id": 3,
+      "image": "https://i.postimg.cc/Y9Bg9xXg/Screenshot-2024-08-02-105809.png",
+      "title": "Beachside Villa",
+      "description": "A luxurious villa by the beach.",
+      "price": 35000,
+      "location": "Goa",
+      "numberOfBedrooms": 5,
+      "amenities": ["WiFi", "Pool", "Beach Access"]
+    },
+    {
+      "id": 4,
+      "image": "https://i.postimg.cc/FK43FZCS/Screenshot-2024-08-02-105956.png",
+      "title": "Downtown Condo",
+      "description": "A stylish condo in downtown.",
+      "price": 20000,
+      "location": "Chicago",
+      "numberOfBedrooms": 3,
+      "amenities": ["WiFi", "Gym", "Air Conditioning"]
+    },
+    {
+      "id": 5,
+      "image": "https://i.postimg.cc/Gm81K0RF/Screenshot-2024-08-02-110210.png",
+      "title": "Suburban Home",
+      "description": "A comfortable home in the suburbs.",
+      "price": 15000,
+      "location": "Austin",
+      "numberOfBedrooms": 3,
+      "amenities": ["WiFi", "Garage", "Garden"]
+    },
+    {
+      "id": 6,
+      "image": "https://i.postimg.cc/y6p1yy9z/Screenshot-2024-08-02-110343.png",
+      "title": "Mountain Cabin",
+      "description": "A rustic cabin in the mountains.",
+      "price": 18000,
+      "location": "Goa",
+      "numberOfBedrooms": 2,
+      "amenities": ["WiFi", "Fireplace", "Mountain View"]
+    },
+    {
+      "id": 7,
+      "image": "https://i.postimg.cc/9fPTDnD2/Screenshot-2024-08-02-110516.png",
+      "title": "Luxury Penthouse",
+      "description": "A luxury penthouse with stunning city views.",
+      "price": 50000,
+      "location": "Chicago",
+      "numberOfBedrooms": 4,
+      "amenities": ["WiFi", "Pool", "Gym", "Parking"]
+    },
+    {
+      "id": 8,
+      "image": "https://i.postimg.cc/76f8DyF6/Screenshot-2024-08-02-113509.png",
+      "title": "Historic Cottage",
+      "description": "A charming cottage with historic significance.",
+      "price": 10000,
+      "location": "San Francisco",
+      "numberOfBedrooms": 2,
+      "amenities": ["WiFi", "Fireplace", "Garden"]
+    },
+    {
+      "id": 9,
+      "image": "https://i.postimg.cc/pXKk6X0Z/Screenshot-2024-08-02-113732.png",
+      "title": "City Loft",
+      "description": "A modern loft in the heart of the city.",
+      "price": 22000,
+      "location": "New York",
+      "numberOfBedrooms": 1,
+      "amenities": ["WiFi", "Gym", "Rooftop Access"]
+    },
+    {
+      "id": 10,
+      "image": "https://i.postimg.cc/Gpn4Sd5k/Screenshot-2024-08-02-113903.png",
+      "title": "Countryside Retreat",
+      "description": "A peaceful retreat in the countryside.",
+      "price": 13000,
+      "location": "Austin",
+      "numberOfBedrooms": 3,
+      "amenities": ["WiFi", "Garden", "Fireplace"]
+    },
+    {
+      "id": 11,
+      "image": "https://i.postimg.cc/28LPGZLX/Screenshot-2024-08-02-114221.png",
+      "title": "Urban Studio",
+      "description": "A compact studio apartment in a bustling urban area.",
+      "price": 19000,
+      "location": "Goa",
+      "numberOfBedrooms": 1,
+      "amenities": ["WiFi", "Air Conditioning"]
+    },
+    {
+      "id": 12,
+      "image": "https://i.postimg.cc/4x4KCsvt/Screenshot-2024-08-02-114345.png",
+      "title": "Family House",
+      "description": "A spacious family house with a large backyard.",
+      "price": 21000,
+      "location": "Chicago",
+      "numberOfBedrooms": 4,
+      "amenities": ["WiFi", "Garage", "Garden"]
+    },
+    {
+      "id": 13,
+      "image": "https://i.postimg.cc/sfSKx9km/Screenshot-2024-08-02-114537.png",
+      "title": "Penthouse Suite",
+      "description": "A luxurious penthouse with panoramic views.",
+      "price": 60000,
+      "location": "New York",
+      "numberOfBedrooms": 3,
+      "amenities": ["WiFi", "Pool", "Gym", "Parking"]
+    },
+    {
+      "id": 14,
+      "image": "https://i.postimg.cc/RZRvBtCV/Screenshot-2024-08-02-114733.png",
+      "title": "Charming Bungalow",
+      "description": "A charming bungalow in a quiet neighborhood.",
+      "price": 14000,
+      "location": "San Francisco",
+      "numberOfBedrooms": 3,
+      "amenities": ["WiFi", "Garden", "Air Conditioning"]
+    },
+    {
+      "id": 15,
+      "image": "https://i.postimg.cc/qvjgGS3L/Screenshot-2024-08-02-114908.png",
+      "title": "Eco-Friendly Home",
+      "description": "An eco-friendly home with solar panels.",
+      "price": 23000,
+      "location": "Austin",
+      "numberOfBedrooms": 4,
+      "amenities": ["WiFi", "Garage", "Garden", "Solar Panels"]
+    },
+    {
+      "id": 16,
+      "image": "https://i.postimg.cc/wTkXs694/Screenshot-2024-08-02-115055.png",
+      "title": "Lake House",
+      "description": "A beautiful house with a lake view.",
+      "price": 27000,
+      "location": "Goa",
+      "numberOfBedrooms": 4,
+      "amenities": ["WiFi", "Fireplace", "Lake View"]
+    },
+    {
+      "id": 17,
+      "image": "https://i.postimg.cc/hPhmhV3v/Screenshot-2024-08-02-115303.png",
+      "title": "High-Rise Apartment",
+      "description": "A modern apartment in a high-rise building.",
+      "price": 19000,
+      "location": "Chicago",
+      "numberOfBedrooms": 2,
+      "amenities": ["WiFi", "Gym", "Pool"]
+    },
+    {
+      "id": 18,
+      "image": "https://i.postimg.cc/Bb3XpKqW/Screenshot-2024-08-02-115445.png",
+      "title": "Vintage House",
+      "description": "A vintage house with classic architecture.",
+      "price": 16000,
+      "location": "Austin",
+      "numberOfBedrooms": 3,
+      "amenities": ["WiFi", "Fireplace", "Garden"]
+    },
+    {
+      "id": 19,
+      "image": "https://i.postimg.cc/G2f1h05X/Screenshot-2024-08-02-115648.png",
+      "title": "Modern Loft",
+      "description": "A sleek loft with modern design.",
+      "price": 25000,
+      "location": "San Francisco",
+      "numberOfBedrooms": 2,
+      "amenities": ["WiFi", "Gym", "Rooftop Access"]
+    },
+    {
+      "id": 20,
+      "image": "https://i.postimg.cc/Wb1qD0zC/Screenshot-2024-08-02-120053.png",
+      "title": "Coastal Condo",
+      "description": "A beautiful condo with a view of the ocean.",
+      "price": 30000,
+      "location": "New York",
+      "numberOfBedrooms": 3,
+      "amenities": ["WiFi", "Pool", "Beach Access"]
+    }
+  ]
+  
